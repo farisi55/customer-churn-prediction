@@ -38,8 +38,7 @@ Once you have a trained model, use it to make predictions on new data to identif
 
 ## Contributors
 
-- [Your Name](https://github.com/yourusername)
-- [Contributor Name](https://github.com/contributorusername)
+- Banu Salman (https://github.com/farisi55)
 
 ## License
 
